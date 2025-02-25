@@ -44,12 +44,15 @@ a,
 .main-header .sticky-header .main-menu .navigation > li.current > a,
 .main-header .sticky-header .main-menu .navigation > li.current-menu-item > a{
 	color:#e7470c;
+	transition: all 0.5s ease; /* Add transition for smooth color change */
 }
 .color-palate-head{
 	background-color: #e7470c;
+	transition: all 0.5s ease; /* Add transition for smooth color change */
 }
 .color-trigger{
 	background-color: #e7470c;
+	transition: all 0.5s ease; /* Add transition for smooth color change */
 }
 /*Border Color*/
 .scroll-to-top,
@@ -69,6 +72,7 @@ a,
 .fact-counter .column:nth-child(4) .inner .icon-box,
 .pet-block .inner-box .image .overlay-box .overlay-inner .content ul li a:hover{
 	border-color:#e7470c;
+	transition: all 0.5s ease; /* Add transition for smooth color change */
 }
 
 /*Background Color*/
@@ -95,6 +99,7 @@ a,
 .blog-single .inner-box .lower-content .title-box .date-box,
 .pet-block .inner-box .image .overlay-box .overlay-inner .content ul li a:hover{
 	background-color:#e7470c;
+	transition: all 0.5s ease; /* Add transition for smooth color change */
 }
 
 /*RGBA Color Dark*/
@@ -103,6 +108,7 @@ a,
 	
 	.main-menu .navbar-header .navbar-toggle{
 		border-color:#e7470c;
+		transition: all 0.5s ease; /* Add transition for smooth color change */
 	}
 	
 	.main-menu .navbar-header .navbar-toggle,
@@ -122,6 +128,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
 	.header-style-two.inner-header .main-menu .navigation > li > a{
 		background-color:#e7470c;
+		transition: all 0.5s ease; /* Add transition for smooth color change */
 	}
 	
 }
